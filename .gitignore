@@ -2,3 +2,6 @@
 
 # Don't include binary
 free_learning
+
+# Don't include these folders
+tmp/

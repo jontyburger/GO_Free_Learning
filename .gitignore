@@ -1,1 +1,4 @@
 *.txt
+
+# Don't include binary
+free_learning
